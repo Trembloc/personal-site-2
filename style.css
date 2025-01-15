@@ -5,12 +5,12 @@ body {
 
 nav {
   background-color: silver;
-  \
+  
 
 }
 
 nav {
-  color: aqua;
+  color: teal;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -38,4 +38,10 @@ form{
   flex-direction: column;
   gap: 8px;
   align-items: center;
+}
+section > h1{
+  color: gold;
+}
+.proj{
+  background-color: sienna;
 }
